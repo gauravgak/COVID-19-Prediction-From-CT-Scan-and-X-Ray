@@ -1,0 +1,1 @@
+# COVID-19-Prediction-From-CT-Scan-and-X-Ray
